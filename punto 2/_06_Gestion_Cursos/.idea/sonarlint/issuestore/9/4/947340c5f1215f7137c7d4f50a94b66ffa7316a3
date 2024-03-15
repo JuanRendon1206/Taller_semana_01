@@ -1,0 +1,19 @@
+
+¸
+java:S1319Q"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(òèßÃúÿÿÿÿ8¸âğã1J$df91c948-e09c-4ecf-a75e-60596d2fc16b
+¸
+java:S1319U"pThe type of "listaEstudiantes" should be an interface such as "List" rather than the implementation "ArrayList".(˜İøÿÿÿÿ8¸âğã1J$c83245b4-c456-44ca-864e-f54a8be76f8c
+]
+java:S1220""Move this file to a named package.8ºâğã1J$906ba382-5129-4a8e-af7a-950537bdf3b1
+m	java:S106"+Replace this use of System.out by a logger.(ÌÛ§‹8Ñâğã1J$8abaa0f4-d5ea-42cc-829f-a37442add446
+
+java:S1117"9Rename "nombre" which hides the field declared at line 6.(ÈÒ§¤ùÿÿÿÿ8Òâğã1J$7b8939e6-778d-4f4d-ba37-28cc48223f09
+m	java:S106"+Replace this use of System.out by a logger.(ù£•ñ8Óâğã1J$30e58444-bce2-40c9-9bde-1e5a8387241c
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(Í¶ªì8Õâğã1J$2fd06058-26ed-4d3c-a9d0-da677e35a500
+r	java:S106 "+Replace this use of System.out by a logger.(Àñ”Çıÿÿÿÿ8Öâğã1J$42006339-758e-4373-8238-cd1bb0f9173d
+m	java:S106&"+Replace this use of System.out by a logger.(¿½Æì8Ùâğã1J$616987d6-d633-4710-8f11-0284f43dbb44
+r	java:S106*"+Replace this use of System.out by a logger.(ÿÉ–àùÿÿÿÿ8Úâğã1J$f989c7d6-580c-4457-a7c9-e5cde98216b9
+r	java:S106-"+Replace this use of System.out by a logger.(•¶¦¡ùÿÿÿÿ8Ûâğã1J$2aee6dbc-5bb2-4c3a-82f4-0242ce393e31
+r	java:S1066"+Replace this use of System.out by a logger.(êşäıÿÿÿÿ8Şâğã1J$9209306d-29af-4735-ac03-735f303aa86b
+r	java:S106<"+Replace this use of System.out by a logger.(˜€Æğûÿÿÿÿ8àâğã1J$f3214c74-1ca0-4091-925a-1ee070101fd2
